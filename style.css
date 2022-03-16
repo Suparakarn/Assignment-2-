@@ -1,0 +1,36 @@
+body {
+    background: #FFF0E6;
+}
+.style{
+    font-family: 'Archivo Black';
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    letter-spacing: 0.17em;
+
+    color: #F87070;
+}
+#suparakarn_pic{
+    width: 25%;
+    border-radius: 51px;
+}
+hr{
+    width: 1400px;
+    border: 3px solid #E3B28F;
+}
+.header{
+    font-size: 20px;
+    color :#7B70F8;
+}
+.content{
+   color :#FF9D9D;
+}
+
+
+
+
+    
+
+
+
+
